@@ -4,28 +4,25 @@ A structured, week-long program that takes researchers from a question to prelim
 
 ## The Framework
 
-This program follows a six-stage research framework. AI accelerates each stage. You drive every decision between stages.
+This program follows a five-stage research framework. AI accelerates each stage. You drive every decision between stages.
 
 | Stage | Focus | Deliverable |
 |-------|-------|-------------|
-| 1. Ideation | Define your research direction and question | A specific, answerable research question |
-| 2. Discovery | Literature review, gap analysis, data sources, target venues | A one-page research brief |
-| 3. Design | Methodology, data pipeline, model selection | A documented methodology |
-| 4. Compute | Data staging, job submission, model training on HPC | Raw results and a reproducible pipeline |
-| 5. Analysis | Interpret results, visualize, connect back to literature | Annotated results with visualizations |
-| 6. Publication | Write, format, and prepare for submission | A submission-ready paper draft |
+| 1. Ideation | Define question, validate gap, find data, select venues | One-page research brief |
+| 2. Design | Methodology, data pipeline, computational plan | Methodology document |
+| 3. Compute | Data on HPC, working pipeline, raw output | Reproducible pipeline with results |
+| 4. Analysis | Interpret results, visualize, connect to literature | Annotated results with figures |
+| 5. Publication | Write, format, peer review, prepare submission | Paper draft with submission plan |
 
 ## Weekly Schedule
 
-| Time | Day 1: Foundation | Day 2: HPC Workflows | Day 3: AI Tools | Day 4: Analysis and Writing | Day 5: Publication |
-|------|-------------------|----------------------|-----------------|----------------------------|-------------------|
-| 9:00 - 9:15 | Welcome and Introductions | Daily Review | Daily Review | Daily Review | Daily Review |
-| 9:15 - 10:30 | [Example Research Walkthrough](./01-Ideation/01-research-questions) | [Getting Started with Tapis](./04-Compute/01-tapis-setup) | [AI Tools That See Your Files](./AI-Tools/01-tools-overview) | [Interpreting Results](./05-Analysis/01-results-interpretation) | [Writing Your Paper](./06-Publication/01-paper-writing) |
-| 10:30 - 12:00 | [Dataset Discovery](./01-Ideation/02-dataset-discovery) | [HPC Workflows on Vista](./04-Compute/02-hpc-workflows) | Hands-on: Scripting with AI Tools | [Visualization and SHAP](./05-Analysis/02-visualization) | [Formatting and Submission](./06-Publication/02-submission-prep) |
-| 12:00 - 1:00 | Lunch | Lunch | Lunch | Lunch | Lunch |
-| 1:00 - 2:00 | [AI-Powered Literature Review](./02-Discovery/01-literature-review) | [Jupyter HPC with GPU Access](./04-Compute/03-jupyter-hpc) | Hands-on: Building Your Pipeline | Independent Work | Using NAIRR in Future Work |
-| 2:00 - 3:00 | [Gap Analysis and Venue Selection](./02-Discovery/02-gap-analysis) | [Methodology and Data Pipeline](./03-Design/01-methodology) | [Feature Engineering](./03-Design/02-data-pipeline) | Independent Work | Program Evaluation |
-| 3:00 - 5:00 | Independent Work: Research Brief | Independent Work: Get Data on HPC | Independent Work: Run First Models | Independent Work: Draft Sections | Independent Work: Finalize Paper |
+| | Morning (9:00 - 12:00) | Afternoon (1:00 - 5:00) |
+|---|---|---|
+| **Day 1** | Example walkthrough + [Ideation](./01-Ideation/01-entry-points) | Ideation continued (lit review, data, venues) |
+| **Day 2** | [Design](./02-Design/01-methodology) (methodology, pipeline, features) | [Compute](./03-Compute/01-project-setup) begins (project setup, Git, data transfer) |
+| **Day 3** | Compute continued (run experiments, train models) | [Analysis](./04-Analysis/01-metrics-reference) begins (interpret results, SHAP) |
+| **Day 4** | Analysis continued (visualizations, writing interpretation) | [Publication](./05-Publication/01-paper-writing) begins (writing, assembling sections) |
+| **Day 5** | Publication continued ([peer review](./05-Publication/02-peer-review), revision) | [Submission prep](./05-Publication/03-submission), program wrap-up |
 
 ## Pre-Event
 
@@ -34,15 +31,32 @@ Before arriving, all participants must complete the following:
 - [ ] Create a [TACC account](https://portal.tacc.utexas.edu/account-request)
 - [ ] Set up multi-factor authentication (Duo Mobile or Okta Verify)
 - [ ] Verify you can log into [morehouse.tapis.io](https://morehouse.tapis.io)
-- [ ] Install [VS Code](https://code.visualstudio.com/) on your laptop
+- [ ] Create a [GitHub account](https://github.com) (if you don't have one)
+- [ ] Install [Git](https://git-scm.com/downloads) on your laptop
+- [ ] Install one of: [VS Code](https://code.visualstudio.com/), [Cursor](https://cursor.com), or [Antigravity](https://antigravity.google/)
 - [ ] Install [Claude Code](https://claude.ai/code) (CLI)
+- [ ] Install [Zotero](https://www.zotero.org/) with the browser connector
+
+## Templates
+
+All templates are available in multiple formats (Markdown, PDF, Word, Excel):
+
+| Template | Stage | Purpose |
+|----------|-------|---------|
+| Research Brief | 1. Ideation | Question, gap, data sources, target venues |
+| Methodology | 2. Design | Five methodology questions, pipeline diagram, computational plan |
+| Compute Log | 3. Compute | Data staging, scripts, jobs, raw output |
+| Analysis | 4. Analysis | Metrics, SHAP findings, interpretation, limitations |
+| Metrics Reference | 4. Analysis | Plain-language guide to every metric |
+| Peer Review | 5. Publication | Structured feedback for reviewing a partner's paper |
+| Submission Plan | 5. Publication | Venue, deadline, revision timeline, checklist |
 
 ## Resources
 
 - [Morehouse Tapis Tenant](https://morehouse.tapis.io)
 - [Tapis Documentation](https://tapis.readthedocs.io/en/latest/)
 - [Tapis Live API Docs](https://tapis-project.github.io/live-docs/)
-- [TACC Getting Started Guide](https://docs.tacc.utexas.edu/)
+- [AI Tools Overview](./AI-Tools/01-tools-overview)
 
 ## Author
 
