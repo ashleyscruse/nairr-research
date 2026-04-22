@@ -96,12 +96,11 @@ These tools do not see your files, but they are valuable for specific tasks:
 
 | Stage | File-Aware Tool | Non-File-Aware Tool |
 |-------|-----------------|---------------------|
-| 1. Ideation | - | Perplexity, Gemini (brainstorming) |
-| 2. Discovery | - | Perplexity, Gemini Deep Research (lit review) |
-| 3. Design | Claude Code, Cursor (pipeline design) | Claude (methodology writing) |
-| 4. Compute | Claude Code (scripts, job submission, debugging) | - |
-| 5. Analysis | Claude Code, Cursor (visualizations, SHAP) | Claude (interpretation writing) |
-| 6. Publication | Cursor (formatting, LaTeX) | Claude (drafting, editing) |
+| 1. Ideation | - | Perplexity, Gemini, Claude (brainstorming, lit review, gap analysis) |
+| 2. Design | Claude Code, Cursor (pipeline design) | Claude (methodology writing) |
+| 3. Compute | Claude Code (scripts, job submission, debugging) | - |
+| 4. Analysis | Claude Code, Cursor (visualizations, SHAP) | Claude (interpretation writing) |
+| 5. Publication | Cursor (formatting, LaTeX) | Claude (drafting, editing) |
 
 ## Activity: Try Each Tool
 
