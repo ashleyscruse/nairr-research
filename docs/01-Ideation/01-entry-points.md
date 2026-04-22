@@ -2,8 +2,6 @@
 
 You cannot define a question without understanding whether it has already been answered, whether data exists to answer it, and whether anyone will publish the answer. These are not separate steps. They are one decision.
 
-![Ideation Framework](/nairr-research/assets/ideation-schematic.png)
-
 ## Three Entry Points
 
 Everyone enters Ideation at a different starting position. Find yours.
