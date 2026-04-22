@@ -10,7 +10,7 @@ You do not touch HPC until you know what has already been done. If your question
 |------|----------|------------|
 | **Perplexity** | Quick survey of a topic, finding recent papers | May miss niche work |
 | **Gemini Deep Research** | Long-form synthesis, reading many papers at once | Can hallucinate citations |
-| **Claude** | Analyzing specific papers, comparing findings | Cannot search the web |
+| **Claude** | Analyzing specific papers, comparing findings, drafting summaries | May not surface niche or very recent papers |
 | **Google Scholar** | Finding specific papers, citation tracking | Manual, no AI synthesis |
 | **Semantic Scholar** | AI-powered paper recommendations | Less coverage outside CS |
 | **Connected Papers** | Visual graph of related papers | Limited to one seed paper |
