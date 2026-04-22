@@ -1,0 +1,29 @@
+remote_theme: marella/jekyll-theme-documentation
+
+permalink: pretty
+baseurl: "/nairr-research"
+title: "Research Accelerator"
+description: "Leveraging HPC to Accelerate Your Research"
+
+nav:
+- Stage 1 - Ideation:
+  - Defining a Research Question: ./01-Ideation/01-research-questions
+  - Dataset Discovery: ./01-Ideation/02-dataset-discovery
+- Stage 2 - Discovery:
+  - AI-Powered Literature Review: ./02-Discovery/01-literature-review
+  - Gap Analysis and Venue Selection: ./02-Discovery/02-gap-analysis
+- Stage 3 - Design:
+  - Methodology and Data Pipeline: ./03-Design/01-methodology
+  - Feature Engineering: ./03-Design/02-data-pipeline
+- Stage 4 - Compute:
+  - Getting Started with Tapis: ./04-Compute/01-tapis-setup
+  - HPC Workflows on Vista: ./04-Compute/02-hpc-workflows
+  - Jupyter HPC with GPU Access: ./04-Compute/03-jupyter-hpc
+- Stage 5 - Analysis:
+  - Interpreting Results: ./05-Analysis/01-results-interpretation
+  - Visualization and SHAP: ./05-Analysis/02-visualization
+- Stage 6 - Publication:
+  - Writing Your Paper: ./06-Publication/01-paper-writing
+  - Formatting and Submission: ./06-Publication/02-submission-prep
+- AI Tools:
+  - Tools That See Your Files: ./AI-Tools/01-tools-overview
