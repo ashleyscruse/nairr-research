@@ -16,13 +16,13 @@ This program follows a five-stage research framework. AI accelerates each stage.
 
 ## Weekly Schedule
 
-| | Morning (9:00 - 12:00) | Afternoon (1:00 - 5:00) |
-|---|---|---|
-| **Day 1** | Example walkthrough + [Ideation](./01-Ideation/01-entry-points) | Ideation continued (lit review, data, venues) |
-| **Day 2** | [Design](./02-Design/01-methodology) (methodology, pipeline, features) | [Compute](./03-Compute/01-project-setup) begins (project setup, Git, data transfer) |
-| **Day 3** | Compute continued (run experiments, train models) | [Analysis](./04-Analysis/01-metrics-reference) begins (interpret results, SHAP) |
-| **Day 4** | Analysis continued (visualizations, writing interpretation) | [Publication](./05-Publication/01-paper-writing) begins (writing, assembling sections) |
-| **Day 5** | Publication continued ([peer review](./05-Publication/02-peer-review), revision) | [Submission prep](./05-Publication/03-submission), program wrap-up |
+| Day | Morning (9:00 - 12:00) | Afternoon (1:00 - 5:00) |
+|-----|---|---|
+| **1** | Example walkthrough + [Ideation](./01-Ideation/01-entry-points) | Ideation continued (lit review, data, venues) |
+| **2** | [Design](./02-Design/01-methodology) (methodology, pipeline, features) | [Compute](./03-Compute/01-project-setup) begins (project setup, Git, data transfer) |
+| **3** | Compute continued (run experiments, train models) | [Analysis](./04-Analysis/01-metrics-reference) begins (interpret results, SHAP) |
+| **4** | Analysis continued (visualizations, writing interpretation) | [Publication](./05-Publication/01-paper-writing) begins (writing, assembling sections) |
+| **5** | Publication continued ([peer review](./05-Publication/02-peer-review), revision) | [Submission prep](./05-Publication/03-submission), program wrap-up |
 
 ## Pre-Event
 
