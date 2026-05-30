@@ -31,9 +31,9 @@ No prior HPC experience is required. Familiarity with Python or R is helpful but
 
 ## Curriculum Highlights
 
-**Example Research Project**
+**Set Up Your Workspace for AI**
 
-Every participant walks through a complete, publishable research workflow on Day 1 before starting their own. The example project uses publicly available data, machine learning models trained on HPC, and produces results worth writing about. This gives everyone a mental model for the full pipeline before they build their own.
+On Day 1, participants set up the [HPC Research Starter](https://github.com/ashleyscruse/hpc-research-starter), a workspace where AI tools and HPC are already wired in. The biggest difference between researchers who get large speedups from AI and those who do not is rarely the AI itself; it is whether their data and context are organized so the AI can use them. This workspace solves that from the first hour, so the rest of the week moves faster.
 
 **HPC Through Tapis**
 

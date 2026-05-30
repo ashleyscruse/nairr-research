@@ -14,15 +14,24 @@ This program follows a five-stage research framework. AI accelerates each stage.
 | 4. Analysis | Interpret results, visualize, connect to literature | Annotated results with figures |
 | 5. Publication | Write, format, peer review, prepare submission | Paper draft with submission plan |
 
+## Your workspace
+
+Your research lives in the **HPC Research Starter**, a ready-to-go workspace with AI tools and HPC already wired in.
+
+- Repo: [github.com/ashleyscruse/hpc-research-starter](https://github.com/ashleyscruse/hpc-research-starter)
+- How to set it up: see the repo's **SETUP.md**
+
+Make your own copy ("Use this template" or Fork), open it in VS Code, Cursor, Claude Code, or the web, and say hi. Your guide, **Sage**, walks you through getting set up.
+
 ## Weekly Schedule
 
-| Day | Morning (9:00 - 12:00) | Afternoon (1:00 - 5:00) |
+| Day | Morning (9 to 12) | Afternoon (1 to 5) |
 |-----|---|---|
-| **1** | Example walkthrough + [Ideation](./01-Ideation/01-entry-points) | Ideation continued (lit review, data, venues) |
-| **2** | [Design](./02-Design/01-methodology) (methodology, pipeline, features) | [Compute](./03-Compute/01-project-setup) begins (project setup, Git, data transfer) |
-| **3** | Compute continued (run experiments, train models) | [Analysis](./04-Analysis/01-metrics-reference) begins (interpret results, SHAP) |
-| **4** | Analysis continued (visualizations, writing interpretation) | [Publication](./05-Publication/01-paper-writing) begins (writing, assembling sections) |
-| **5** | Publication continued ([peer review](./05-Publication/02-peer-review), revision) | [Submission prep](./05-Publication/03-submission), program wrap-up |
+| **1** | Framework + [set up your workspace for AI](https://github.com/ashleyscruse/hpc-research-starter) + [Ideation](./01-Ideation/02-research-questions) (question, gap) | [Literature review](./01-Ideation/03-literature-review), [dataset discovery](./01-Ideation/04-dataset-discovery), research brief |
+| **2** | [Target venues](./01-Ideation/05-target-venues) + [methodology and pipeline](./02-Design/01-methodology) + [feature engineering](./02-Design/02-feature-engineering) | [Getting started on TACC](./03-Compute/01-project-setup) ([Git](./03-Compute/02-git), [data](./03-Compute/03-data-transfer)), [three ways to use AI](./03-Compute/04-ai-coding) |
+| **3** | Pipeline completion ([Tapis and HPC workflows](./03-Compute/05-tapis-workflows)) | [Analysis](./04-Analysis/01-metrics-reference) (interpret, SHAP), [visualizations](./04-Analysis/03-visualization) and begin writing |
+| **4** | [Interpretation](./04-Analysis/02-interpretation), limitations, pair review | [Publication](./05-Publication/01-paper-writing) begins (writing, assembling sections) |
+| **5** | [Peer review](./05-Publication/02-peer-review), revision | [Submission prep](./05-Publication/03-submission), continued access, wrap-up |
 
 ## Pre-Event
 
