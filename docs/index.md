@@ -1,14 +1,14 @@
-# Research Accelerator: Leveraging HPC to Accelerate Your Research
+# Research Accelerator: Leveraging AI and HPC to Accelerate Your Research
 
-A structured, week-long program that takes researchers from a question to preliminary results and a paper draft using high performance computing and AI tools.
+You already do research. This program is about setting up your workflow and your project so AI and high performance computing accelerate it. You arrive with a question and leave with preliminary results and a paper draft, moving faster than you could on your own.
 
 ## The Framework
 
-This program follows a five-stage research framework. AI accelerates each stage. You drive every decision between stages.
+This program follows a five-stage workflow for AI- and HPC-accelerated research. AI accelerates each stage; you make every decision between stages. The point is not to teach you how to do research (you already do that); it is to set up your project so the tools do the heavy lifting.
 
 | Stage | Focus | Deliverable |
 |-------|-------|-------------|
-| 1. Ideation | Define question, validate gap, find data, select venues | One-page research brief |
+| 1. Ideation | Frame your question, validate the gap, find data, select venues | One-page research brief |
 | 2. Design | Methodology, data pipeline, computational plan | Methodology document |
 | 3. Compute | Data on HPC, working pipeline, raw output | Reproducible pipeline with results |
 | 4. Analysis | Interpret results, visualize, connect to literature | Annotated results with figures |

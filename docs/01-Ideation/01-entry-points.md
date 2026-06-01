@@ -1,10 +1,10 @@
 # Stage 1: Ideation
 
-You cannot define a question without understanding whether it has already been answered, whether data exists to answer it, and whether anyone will publish the answer. These are not separate steps. They are one decision.
+You already do research. Ideation is not about learning to form a question; it is about capturing your project clearly enough that AI and HPC can accelerate it, and making sure it is something you can actually run this week.
 
 ## Three Entry Points
 
-Everyone enters Ideation at a different starting position. Find yours.
+These describe what you arrive with, not your ability. Find yours; all three end at the same place: a research brief ready to drive the rest of the week.
 
 ### Entry Point 1: "I have a project"
 
@@ -28,12 +28,12 @@ You have a research direction but it is not yet a formal question. You need to n
 
 **Try this prompt:** "I'm a [role] in [field] interested in [area]. What are the most active and underexplored research questions in this space right now?"
 
-### Entry Point 3: "I'm starting fresh"
+### Entry Point 3: "I want to start something new this week"
 
-You have an interest area and nothing more. You need to brainstorm from scratch.
+You would rather spin up a fresh project for the week. You will pick a question that is compute-friendly and feasible in five days.
 
 **Your process:**
-1. State what draws you to the topic and why
+1. Name the area that interests you and why
 2. Use AI to generate 3-5 specific directions, each with a potential data source and target venue
 3. Pick the direction that excites you and is feasible this week
 
