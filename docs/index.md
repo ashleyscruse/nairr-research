@@ -43,7 +43,7 @@ Sessions run **10:00 AM to 3:00 PM** each day, with a lunch break. Mornings are 
 |---|---|---|
 | 10:00 to 10:15 | Welcome | Dr. Gosha |
 | 10:15 to 10:30 | Check TACC access and troubleshoot login | Dr. Scruse |
-| 10:30 to 11:00 | AIHPC accelerated research framework | Dr. Scruse |
+| 10:30 to 11:00 | AI HPC accelerated research framework | Dr. Scruse |
 | 11:00 to 11:30 | Set up your workspace for AI (starter repo + Sage) | Dr. Scruse |
 | 11:30 to 12:00 | Ideation: your research question and the gap | Dr. Scruse |
 | 12:00 to 1:00 | Lunch | |
