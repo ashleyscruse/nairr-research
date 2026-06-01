@@ -130,6 +130,7 @@ All templates are available in multiple formats (Markdown, PDF, Word, Excel):
 ## Resources
 
 - [Morehouse Tapis Tenant](https://morehouse.tapis.io)
+- [Launching Jupyter on Vista (MSCF tutorial)](https://morehouse-supercomputing.github.io/tutorials/tapis/launching-jupyter-on-vista)
 - [AI Tools Overview](./AI-Tools/01-tools-overview)
 
 ## Author
