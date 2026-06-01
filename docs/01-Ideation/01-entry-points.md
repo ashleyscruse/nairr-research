@@ -4,40 +4,19 @@ You already do research. Ideation is not about learning to form a question; it i
 
 ## Three Entry Points
 
-These describe what you arrive with, not your ability. Find yours; all three end at the same place: a research brief ready to drive the rest of the week.
+Two tools, two jobs: **AI** speeds up your research, and **HPC** gives you compute power beyond your laptop. Where are you starting from? Pick the one that fits. There is no wrong answer.
 
-### Entry Point 1: "I have a project"
+### Entry Point 1: "New to both"
 
-You arrive with an active research project and data in hand. You do not need to brainstorm. You need to scope your existing work for HPC and this week.
+You do excellent research; you just have not used AI to speed it up or a supercomputer to run bigger compute. This week sets you up with both, from scratch, with support.
 
-**Your process:**
-1. Identify the computational bottleneck in your existing work
-2. Pull out one experiment that can run on HPC this week
-3. Frame the question for this week, not your whole research agenda
+### Entry Point 2: "I use AI, but not for research like this"
 
-**Ask yourself:** "What experiment have you been putting off because it would take too long on your laptop?"
+You have used AI tools (ChatGPT, Claude), but not as a file-aware workflow to accelerate your research, and you have not tapped HPC for compute. This week you will use AI to move faster and HPC for the heavy lifting.
 
-### Entry Point 2: "I have a concept"
+### Entry Point 3: "I already use AI and HPC"
 
-You have a research direction but it is not yet a formal question. You need to narrow it.
-
-**Your process:**
-1. Use AI to survey the landscape of your interest area
-2. Generate 2-3 specific questions within your area
-3. Evaluate each: Is there public data? Does it benefit from HPC? Can it produce results in a week?
-
-**Try this prompt:** "I'm a [role] in [field] interested in [area]. What are the most active and underexplored research questions in this space right now?"
-
-### Entry Point 3: "I want to start something new this week"
-
-You would rather spin up a fresh project for the week. You will pick a question that is compute-friendly and feasible in five days.
-
-**Your process:**
-1. Name the area that interests you and why
-2. Use AI to generate 3-5 specific directions, each with a potential data source and target venue
-3. Pick the direction that excites you and is feasible this week
-
-**Try this prompt:** "Generate five specific research questions I could investigate this week using machine learning and HPC. For each, suggest a publicly available dataset and a target conference or journal."
+You use AI tools and run on a cluster. This week sharpens both: AI to work faster, HPC to go bigger.
 
 ## The Deliverable: Research Brief
 
