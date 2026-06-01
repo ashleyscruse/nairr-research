@@ -130,8 +130,6 @@ All templates are available in multiple formats (Markdown, PDF, Word, Excel):
 ## Resources
 
 - [Morehouse Tapis Tenant](https://morehouse.tapis.io)
-- [Tapis Documentation](https://tapis.readthedocs.io/en/latest/)
-- [Tapis Live API Docs](https://tapis-project.github.io/live-docs/)
 - [AI Tools Overview](./AI-Tools/01-tools-overview)
 
 ## Author

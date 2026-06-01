@@ -6,27 +6,27 @@ title: "Research Accelerator"
 description: "Leveraging HPC to Accelerate Your Research"
 
 nav:
-- Stage 1 - Ideation:
+- Stage 1: Ideation:
   - Three Entry Points: ./01-Ideation/01-entry-points
   - Research Questions and Gap Analysis: ./01-Ideation/02-research-questions
   - Literature Review with AI: ./01-Ideation/03-literature-review
   - Dataset Discovery: ./01-Ideation/04-dataset-discovery
   - Target Venues: ./01-Ideation/05-target-venues
-- Stage 2 - Design:
+- Stage 2: Design:
   - Methodology and Data Pipeline: ./02-Design/01-methodology
   - Feature Engineering: ./02-Design/02-feature-engineering
-- Stage 3 - Compute:
+- Stage 3: Compute:
   - Project Setup and File Structure: ./03-Compute/01-project-setup
   - Version Control with Git: ./03-Compute/02-git
   - Getting Data onto Vista: ./03-Compute/03-data-transfer
   - AI Coding Tools: ./03-Compute/04-ai-coding
   - Tapis and HPC Workflows: ./03-Compute/05-tapis-workflows
   - Jupyter HPC with GPU Access: ./03-Compute/06-jupyter-hpc
-- Stage 4 - Analysis:
+- Stage 4: Analysis:
   - Metrics Reference: ./04-Analysis/01-metrics-reference
   - Interpreting Results: ./04-Analysis/02-interpretation
   - Visualization: ./04-Analysis/03-visualization
-- Stage 5 - Publication:
+- Stage 5: Publication:
   - Writing Your Paper: ./05-Publication/01-paper-writing
   - Peer Review: ./05-Publication/02-peer-review
   - Formatting and Submission: ./05-Publication/03-submission
