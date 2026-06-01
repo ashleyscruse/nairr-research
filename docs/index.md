@@ -23,15 +23,82 @@ Your research lives in the **HPC Research Starter**, a ready-to-go workspace wit
 
 Make your own copy ("Use this template" or Fork), open it in VS Code, Cursor, Claude Code, or the web, and say hi. Your guide, **Sage**, walks you through getting set up.
 
-## Weekly Schedule
+## Daily schedule
 
-| Day | Morning (9 to 12) | Afternoon (1 to 5) |
-|-----|---|---|
-| **1** | Framework + [set up your workspace for AI](https://github.com/ashleyscruse/hpc-research-starter) + [Ideation](./01-Ideation/02-research-questions) (question, gap) | [Literature review](./01-Ideation/03-literature-review), [dataset discovery](./01-Ideation/04-dataset-discovery), research brief |
-| **2** | [Target venues](./01-Ideation/05-target-venues) + [methodology and pipeline](./02-Design/01-methodology) + [feature engineering](./02-Design/02-feature-engineering) | [Getting started on TACC](./03-Compute/01-project-setup) ([Git](./03-Compute/02-git), [data](./03-Compute/03-data-transfer)), [three ways to use AI](./03-Compute/04-ai-coding) |
-| **3** | Pipeline completion ([Tapis and HPC workflows](./03-Compute/05-tapis-workflows)) | [Analysis](./04-Analysis/01-metrics-reference) (interpret, SHAP), [visualizations](./04-Analysis/03-visualization) and begin writing |
-| **4** | [Interpretation](./04-Analysis/02-interpretation), limitations, pair review | [Publication](./05-Publication/01-paper-writing) begins (writing, assembling sections) |
-| **5** | [Peer review](./05-Publication/02-peer-review), revision | [Submission prep](./05-Publication/03-submission), continued access, wrap-up |
+Sessions run **10:00 AM to 3:00 PM** each day, with a lunch break. Mornings are guided; afternoons are hands-on work time with facilitators on hand.
+
+| Day | Focus | You walk away with |
+|---|---|---|
+| **1 · Mon** | Set up your workspace for AI + Ideation | Workspace ready; research question and gap |
+| **2 · Tue** | Target venues, methodology, getting onto TACC | Methodology + data on Vista |
+| **3 · Wed** | Pipeline completion + analysis | Results and first figures |
+| **4 · Thu** | Interpretation + start writing | Draft sections, limitations, figures |
+| **5 · Fri** | Peer review + submission | Reviewed draft + submission plan |
+
+## Daily agenda
+
+### Day 1 · Monday — Set up your workspace + Ideation
+
+| Time | Session | Lead |
+|---|---|---|
+| 10:00 to 10:15 | Welcome and week overview | Dr. Scruse |
+| 10:15 to 10:45 | The framework: how AI and HPC accelerate your research | Dr. Scruse |
+| 10:45 to 11:30 | Set up your workspace for AI (starter repo + Sage) | Dr. Scruse |
+| 11:30 to 12:00 | Ideation: your research question and the gap | Dr. Scruse |
+| 12:00 to 1:00 | Lunch | |
+| 1:00 to 2:00 | Literature review | Whitney |
+| 2:00 to 2:45 | Dataset discovery | Whitney |
+| 2:45 to 3:00 | Complete your research brief and share-out | Dr. Scruse & Whitney |
+
+### Day 2 · Tuesday — Venues, Methodology, TACC
+
+| Time | Session | Lead |
+|---|---|---|
+| 10:00 to 10:15 | Daily agenda review | Dr. Scruse |
+| 10:15 to 10:45 | Target venues | Dr. Scruse |
+| 10:45 to 11:30 | Methodology and data pipeline | Dr. Scruse |
+| 11:30 to 12:00 | Feature engineering | Whitney |
+| 12:00 to 1:00 | Lunch | |
+| 1:00 to 1:45 | Getting started on TACC (setup, $SCRATCH, Git) | Whitney |
+| 1:45 to 2:30 | Data acquisition and cleaning | Whitney |
+| 2:30 to 3:00 | Three ways to use AI for coding | Dr. Scruse |
+
+### Day 3 · Wednesday — Pipeline completion + Analysis
+
+| Time | Session | Lead |
+|---|---|---|
+| 10:00 to 10:15 | Daily agenda review | Dr. Scruse |
+| 10:15 to 11:15 | Pipeline completion: AI coding, Git, Tapis and HPC workflows | Dr. Scruse |
+| 11:15 to 12:00 | Run experiments (independent; optional Tapis breakout) | |
+| 12:00 to 1:00 | Lunch | |
+| 1:00 to 1:45 | Analysis introduction: metrics and SHAP | Whitney |
+| 1:45 to 2:15 | Review your own results (independent) | |
+| 2:15 to 3:00 | Generate visualizations and begin writing | Whitney |
+
+### Day 4 · Thursday — Interpretation + Start writing
+
+| Time | Session | Lead |
+|---|---|---|
+| 10:00 to 10:15 | Daily agenda review | Whitney |
+| 10:15 to 11:00 | Continue interpretation (independent) | |
+| 11:00 to 11:30 | Student pipelines into research | Whitney |
+| 11:30 to 12:00 | Limitations and pair review of analysis (independent) | |
+| 12:00 to 1:00 | Lunch | |
+| 1:00 to 1:30 | Publication introduction | Dr. Scruse |
+| 1:30 to 3:00 | Independent writing: methodology, results, related work, intro | |
+
+### Day 5 · Friday — Peer review + Submission
+
+| Time | Session | Lead |
+|---|---|---|
+| 10:00 to 10:15 | Daily agenda review | Whitney |
+| 10:15 to 11:00 | Finish writing (Overleaf, anonymizing, AI formatting) | |
+| 11:00 to 12:00 | Structured peer review | Whitney |
+| 12:00 to 1:00 | Lunch | |
+| 1:00 to 1:30 | Submission logistics | Whitney |
+| 1:30 to 2:15 | Using NAIRR in future work and continued access to TACC | Dr. Scruse |
+| 2:15 to 2:45 | Program evaluation | Dr. Newell |
+| 2:45 to 3:00 | Closing remarks | |
 
 ## Pre-Event
 
