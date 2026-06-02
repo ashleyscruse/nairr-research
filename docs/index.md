@@ -134,6 +134,12 @@ All templates are available in multiple formats (Markdown, PDF, Word, Excel):
 - [Launching Jupyter on Vista (MSCF)](https://morehouse-supercomputing.github.io/jupyter-on-tapis/)
 - [AI Tools Overview](./AI-Tools/01-tools-overview)
 
+### Credits and access for researchers
+
+- [NAIRR Ecosystem and Credits for Researchers](https://docs.google.com/document/d/1DC0DAai4V1wJJCYC6B6GzIHQ-UT93-7vM8v5TbYp1OI/edit?usp=sharing)
+- [OpenAI Researcher Access Program](https://openai.com/form/researcher-access-program/)
+- [Anthropic AI for Science Program](https://www.anthropic.com/news/ai-for-science-program)
+
 ## Author
 
 **Ashley Scruse, Ph.D.**
