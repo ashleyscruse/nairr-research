@@ -20,7 +20,8 @@ Your research lives in the **HPC Research Starter**, a ready-to-go workspace wit
 
 - Repo: [github.com/ashleyscruse/hpc-research-starter](https://github.com/ashleyscruse/hpc-research-starter)
 - Worked example: [github.com/ashleyscruse/hpc-research-example](https://github.com/ashleyscruse/hpc-research-example) — a full project filled out in the starter, to see what "done" looks like
-- How to set it up: see the repo's **SETUP.md**
+- Vista job scripts: the starter includes a **`tacc-vista`** skill that writes and debugs your Slurm job scripts
+- How to set it up, and pull updates I add during the week: see the repo's **SETUP.md**
 
 Make your own copy ("Use this template" or Fork), open it in VS Code, Cursor, Claude Code, or the web, and say hi. Your guide, **Sage**, walks you through getting set up.
 
